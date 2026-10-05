@@ -1,0 +1,6 @@
+{
+  "name": "ÉTOFFE — Fashion & Luxury Beauty Journal",
+  "description": "An independent journal dedicated to luxury beauty formulations, haute perfumery, cosmetic craftsmanship, skincare science, and vanity rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
